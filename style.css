@@ -1,8 +1,25 @@
-#index{background-color: #92DCE5; text-align: center;}
-#education{background-color: #D64933; text-align: center;}
-#jobs{background-color: #7C7C7C; text-align: center;}
-h1{font-size: 60px; font-family: Lobster Two;}
-h2{font-size: 40px;}
-h3{font-size: 30px;}
-ul{font-size: 20px;}
-img {width: 500px;}
+#index, #education, #jobs{
+    background-color: #92DCE5; text-align: center;
+}
+
+h1{
+    font-size: 60px; font-family: Lobster Two;
+}
+
+h2{
+    font-size: 40px;
+}
+
+h3{
+    font-size: 30px;
+}
+
+ul{
+    font-size: 20px;
+}
+
+img {
+    width: 300px; height: 300px;
+}
+
+/* @media{} */
